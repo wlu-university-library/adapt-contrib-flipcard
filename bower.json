@@ -1,10 +1,10 @@
 {
     "name": "adapt-contrib-flipcard",
     "framework": ">=5.0.0",
-    "version": "3.0.0",
-    "homepage": "https://github.com/ExultCorp/adapt-contrib-flipcard",
-    "issues": "https://github.com/ExultCorp/adapt-contrib-flipcard/issues",
-    "repository": "git://github.com/ExultCorp/adapt-contrib-flipcard.git",
+    "version": "3.0.2",
+    "homepage": "https://github.com/wlu-university-library/adapt-contrib-flipcard",
+    "issues": "https://github.com/wlu-university-library/adapt-contrib-flipcard/issues",
+    "repository": "git://github.com/wlu-university-library/adapt-contrib-flipcard.git",
     "authors": [
         "Himanshu Rajotia <himanshu.rajotia@exultcorp.com>"
     ],
